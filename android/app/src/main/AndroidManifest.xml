@@ -2,7 +2,7 @@
     <application
         android:label="blood_donation_app"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/blood_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
